@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/bcrypt": "^6.0.0",
+    "prisma": "^6.18.0"
+  },
+  "dependencies": {
+    "@nestjs/passport": "github:nestjs/jwt",
+    "bcrypt": "^6.0.0",
+    "passport": "^0.7.0",
+    "passport-jwt": "^4.0.1"
+  }
+}
